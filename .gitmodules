@@ -1,0 +1,9 @@
+[submodule "matlab/path-planning/rrt_toolbox"]
+	path = matlab/path-planning/rrt_toolbox
+	url = https://github.com/olzhas/rrt_toolbox
+[submodule "ROS/path-planning/autonomous-exploration/nbvplanner"]
+	path = ROS/path-planning/autonomous-exploration/nbvplanner
+	url = https://github.com/ethz-asl/nbvplanner
+[submodule "ROS/path-planning/structural-inspection/StructuralInspectionPlanner"]
+	path = ROS/path-planning/structural-inspection/StructuralInspectionPlanner
+	url = https://github.com/ethz-asl/StructuralInspectionPlanner
